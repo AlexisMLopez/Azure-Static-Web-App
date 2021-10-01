@@ -17,4 +17,7 @@ This is an application website that I developed using Azure and Blazor with the 
 ## Deploy to Azure Static Web Apps
 
 This application can be deployed to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps), to learn how, check out [our quickstart guide](https://aka.ms/blazor-swa/quickstart).
-![my-static-blazor-app](https://user-images.githubusercontent.com/74120068/133648411-795fa1fd-e677-4eb6-9820-b8ed41d2a0cb.jpg)
+
+![blazor 1](https://user-images.githubusercontent.com/74120068/135549630-01b665db-0eae-4223-9d3f-c99151276d04.png)
+
+![blazor2](https://user-images.githubusercontent.com/74120068/135549637-cf0bb7df-e475-4ea8-839d-a6b582905d73.png)
